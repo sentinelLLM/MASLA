@@ -1,4 +1,4 @@
-# MASLA — Multi‑Agent Security Log Analyzer
+# MASLA  Multi‑Agent Security Log Analyzer
 
 MASLA is a lightweight, defensive‑only cybersecurity project that analyzes Windows Security Logs and Sysmon telemetry using a multi‑agent architecture. It detects suspicious authentication activity, process execution, network behavior, and multi‑stage attack patterns.
 
